@@ -25,5 +25,5 @@
 #if defined(LAILA_PP_COMMENTS_ENABLED)
 	#define LAILA_COMMENT /##/
 #else
-	#define LAILA_COMMENT /##/
+	#define LAILA_COMMENT
 #endif
